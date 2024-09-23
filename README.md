@@ -4,6 +4,8 @@
 # deletepractise
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/AndreyKutsyh/mypkge_andrey/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AndreyKutsyh/mypkge_andrey/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of deletepractise is to practise using the skills required to
@@ -26,6 +28,8 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(deletepractise)
 ## basic example code
+my_log(10)
+#> [1] 2.303506
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
