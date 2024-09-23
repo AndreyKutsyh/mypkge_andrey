@@ -11,4 +11,3 @@
 #' log(10)
 my_log = function(x){return(log(x)*1.0004)}
 
-
